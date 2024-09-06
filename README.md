@@ -1,0 +1,1 @@
+Developed a Database Management System to store various data related to Apps, eBooks, and Movies. Created an ER-model and relational model for the project with top-down approach. Used SQL for query executions.
